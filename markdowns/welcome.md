@@ -158,4 +158,4 @@ ng serve --open
 ```
 After webpack compiles successfully, we can see the following page at the [localhost](http://localhost:4200/home)
 
-@[Angular Router Tutorial]({"stubs": ["src/app/app.module.ts", "src/app/app.component.ts", "src/app/app.component.html", "src/app/routerConfig.ts", "src/app/components/about/about.component.html", "src/app/components/home/home.component.html", "src/app/components/dashboard/dashboard.html"], "command": "./run.sh"})
+@[Angular Router Tutorial]({"stubs": ["src/app/app.module.ts", "src/app/app.component.ts", "src/app/app.component.html", "src/app/routerConfig.ts", "src/app/components/about/about.component.html", "src/app/components/home/home.component.html", "src/app/components/dashboard/dashboard.component.html"], "command": "./run.sh"})
